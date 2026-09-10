@@ -1,0 +1,5 @@
+bundle:
+  name: privacy-governance-demo
+
+include:
+  - resources/*.yml
